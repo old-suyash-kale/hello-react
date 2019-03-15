@@ -5,7 +5,7 @@ let express = require('express');
 let app = express();
 
 let server = http.createServer(app);
-let PORT = process.env.PORT || 3000;
+let PORT = process.env.PORT || 4000;
 
 app.use((req, res, next)=> {
 	console.log(`Route '${req.url}' is executed;`);
