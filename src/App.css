@@ -1,0 +1,12 @@
+body {
+  margin: 50px 0 0 0;
+  text-align: center;
+  font-family: monospace, sans-serif, serif;
+  background-color: #f0db4f;
+}
+h1 {
+  margin: 0;
+}
+p {
+  margin: 0;
+}
